@@ -1,0 +1,15 @@
+{
+  "name": "บันทึกความดัน — สุขภาพทุกวัน",
+  "short_name": "บันทึกความดัน",
+  "description": "บันทึกความดันโลหิตและชีพจรประจำวัน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8fc",
+  "theme_color": "#f4f8fc",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
